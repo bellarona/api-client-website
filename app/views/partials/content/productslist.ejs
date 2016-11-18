@@ -1,0 +1,36 @@
+<article class="productslist <% if (pageID == 'home') { %>jumbotron hidden-xs<% } %>">
+  <div class="container">
+    <div class="row">
+        <% products.forEach(function(item) { %>
+        <div class="<% if (pageID == 'home') { %>col-sm-4 text-center<% } else { %>col-sm-8 <% } %>">
+          <h3 class="productslist-title"><%= item.title %></h3>
+          <h5 class="productslist-name"><a href="<%= item.linkToAmazon %>"><%= item.couponDetails %></a></h5>
+          <p class="productslist-info">
+            <a href="/products/<%= item.shortname %>">
+                <% if (pageID == 'home') { %>
+                  <img class="productslist-img img-product" src="/images/products/<%= item.shortname %>.jpg" alt="Photo of <%= item.name %>"></a>
+                <% } %>
+
+                <% if (pageID == 'productList') { %>
+                  <img class="productslist-img img-product pull-left" src="/images/products/<%= item.shortname %>.jpg" alt="Photo of <%= item.name %>"></a>
+                <% } %>
+              </a>
+
+              <% if (pageID == 'productDetail') { %>
+                <img class="productslist-img img-product img-responsive pull-left" src="/images/products/<%= item.shortname %>.jpg" alt="Photo of <%= item.name %>"></a>
+              <% } %>
+          </a>
+
+            <% if (pageID !== 'home') { %>
+              <% if (pageID == 'productList') { %>
+                <%= item.summary %>
+              <% } else { %>
+                <%- item.description %>
+              <% } %>
+            <% } %>
+          </p>
+        </div>
+        <%  }); %>
+    </div><!-- row -->
+  </div><!-- container -->
+</article>
