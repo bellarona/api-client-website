@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+    "title" : "Multi-Color Flashflight LED Flying Disc",
+    "name": "Multi-Color Flashflight LED Flying Disc",
+    "shortname" : "FFD_Feature_00_n",
+    "summary" : "Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play.",
+    "description": "<p>Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play , flying disc for dogs , Includes 2pcsCR2016 batteries (easy to replace)",
+    "artwork": ["20cm-blue.jpg"],
+    "linkToAmazon": "https://www.amazon.com/dp/B011KPUDBE",
+    "couponDetails": "Find us on Amazon"
+  },{
+    "title" : "Red Color Flashflight LED Flying Disc",
+    "name": "Red Color Flashflight LED Flying Disc",
+    "shortname" : "61+iB9yKzQL._SL1471_",
+    "summary" : "Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play.",
+    "description": "<p>Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play , flying disc for dogs , Includes 2pcsCR2016 batteries (easy to replace)",
+    "artwork": ["20cm-blue.jpg"],
+    "linkToAmazon": "https://www.amazon.com/dp/B011KPUDLO",
+    "couponDetails": "Find us on Amazon"
+  },{
+    "title" : "Blue Color Flashflight LED Flying Disc",
+    "name": "Blue Color Flashflight LED Flying Disc",
+    "shortname" : "20cm-blue",
+    "summary" : "Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play.",
+    "description": "<p>Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play , flying disc for dogs , Includes 2pcsCR2016 batteries (easy to replace)",
+    "artwork": ["20cm-blue.jpg"],
+    "linkToAmazon": "https://www.amazon.com/dp/B011KPUDHS",
+    "couponDetails": "Find us on Amazon"
+  },{
+    "title" : "Blue Color Flashflight LED Flying Disc",
+    "name": "Blue Color Flashflight LED Flying Disc",
+    "shortname" : "20cm-blue",
+    "summary" : "Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play.",
+    "description": "<p>Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play , flying disc for dogs , Includes 2pcsCR2016 batteries (easy to replace)",
+    "artwork": ["20cm-blue.jpg"],
+    "linkToAmazon": "https://www.amazon.com/dp/B011KPUDHS",
+    "couponDetails": "Find us on Amazon"
+  }]
+}

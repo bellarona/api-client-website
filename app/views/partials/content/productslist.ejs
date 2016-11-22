@@ -3,7 +3,7 @@
     <div class="row">
         <% products.forEach(function(item) { %>
         <div class="<% if (pageID == 'home') { %>col-sm-4 text-center<% } else { %>col-sm-8 <% } %>">
-          <h3 class="productslist-title"><%= item.title %></h3>
+          <h4 class="productslist-title"><%= item.title %></h4>
           <h5 class="productslist-name"><a href="<%= item.linkToAmazon %>"><%= item.couponDetails %></a></h5>
           <p class="productslist-info">
             <a href="/products/<%= item.shortname %>">
