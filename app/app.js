@@ -16,6 +16,8 @@ app.use(express.static('app/public'));
 app.use(require('./routes/index'));
 app.use(require('./routes/products'));
 app.use(require('./routes/feedback'));
+app.use(require('./routes/getCoupons'));
+
 app.use(require('./routes/api'));
 // app.use(require('./routes/chat'));
 

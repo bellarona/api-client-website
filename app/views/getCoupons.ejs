@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head><% include partials/template/head.ejs %></head>
+  <body id="<%= pageID %>">
+    <% include partials/template/header.ejs %>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <h3 class="getCoupons-form-title">Enter Email and Get Coupons</h3>
+          <form class="getCoupons-form">
+            <div class="form-group">
+              <label for="getCoupons-form-email">Email</label>
+              <input type="text" class="form-control" id="getCoupons-form-email" placeholder="Enter your email">
+            </div>
+            <button type="submit" class="btn btn-default pull-right">Submit</button>
+          </form>
+              <h5 class="article-title"><div class="getCoupons-messages"></div></h5>
+              
+        </div><!-- primary -->
+
+      </div>
+    </div><!-- container -->
+    <% include partials/template/jsdefaults.ejs %>
+  </body>
+</html>

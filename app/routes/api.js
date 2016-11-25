@@ -3,6 +3,7 @@ var router = express.Router();
 var bodyParser = require('body-parser');
 var fs = require('fs');
 var feedbackData = require('../data/feedback.json');
+var emailsData = require('../data/emailsData.json');
 
 router.get('/api', function(req, res) {
   res.json(feedbackData);
@@ -21,6 +22,15 @@ router.post('/api', function(req, res) {
   res.json(feedbackData);
 });
 
+router.post('/api-getCoupons', function(req, res) {
+  emailsData.unshift(req.body);
+  fs.writeFile('app/data/emailsData.json', JSON.stringify(emailsData), 'utf8', function(err) {
+    if (err) {
+      console.log(err);
+    } 
+  });
+  res.json(emailsData);
+});
 
 router.delete('/api/:id', function(req, res) {
   feedbackData.splice(req.params.id, 1);

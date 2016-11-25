@@ -34,15 +34,6 @@ header {
   font-size: 2rem;
 }
 
-header .jumbotron {
-  height: 40vh;
-  margin-bottom: 0;
-  background: url(../images/misc/background.jpg) no-repeat 100% 5%;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
 
 /**  Navbar **/
 
@@ -233,4 +224,27 @@ header .navbar-inverse .navbar-nav>li>a {
 
 .productslist-name {
   font-weight: bold;
+}
+.coupon-code {
+  color: green;
+}
+.link-to-amazon {
+  text-decoration: underline;
+}
+.getCoupons-tab {
+  color:black !important;
+  font-size: 1.2em;
+}
+header .jumbotron {
+  /*height: 40vh;*/
+  height: 80vh;
+  margin-bottom: 0;
+  background: url(../images/misc/background.jpg) no-repeat 100% 5%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.coupon-percentage {
+  color: green;
 }
