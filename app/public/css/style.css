@@ -233,7 +233,8 @@ header .navbar-inverse .navbar-nav>li>a {
 }
 .getCoupons-tab {
   color:black !important;
-  font-size: 1.2em;
+  font-size: 1.6em;
+  font-weight: bold;
 }
 header .jumbotron {
   /*height: 40vh;*/
