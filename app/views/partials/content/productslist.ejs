@@ -1,14 +1,14 @@
   <div class="media-list">
-    <a class="link-to-amazon" href="https://www.amazon.com/s/ref=bl_dp_s_web_0?ie=UTF8&search-alias=aps&field-keywords=BellaRona">For All Electric Lighters.</a> <span class="coupon-percentage">30%</span> off coupon <span class="coupon-code">30offarc</span> 
+    <a class="link-to-amazon" href="https://www.amazon.com/s/ref=bl_dp_s_web_0?ie=UTF8&search-alias=aps&field-keywords=BellaRona">For All Electric Lighters.</a><br><span class="coupon-percentage">30%</span> Off Your Purchase,<br> Coupon: <span class="coupon-code">30offarc</span> 
   </div>
   <div class="media-list">
-    <a class="link-to-amazon" href="https://www.amazon.com/gp/product/B011KPUDLO">Multi-Color Flashflight LED Flying Disc</a> <span class="coupon-percentage">50%</span> off coupon <span class="coupon-code">offmulti</span> 
+    <a class="link-to-amazon" href="https://www.amazon.com/gp/product/B011KPUDLO">Multi-Color Flashflight LED Flying Disc</a> <span class="coupon-percentage"><br>50%</span> Off Your Purchase,<br> Coupon: <span class="coupon-code">offmulti</span> 
   </div>
   <div class="media-list">
-    <a class="link-to-amazon" href="https://www.amazon.com/gp/product/B011KPUDHS">Blue Color Flashflight LED Flying Disc</a> <span class="coupon-percentage">50%</span> off coupon <span class="coupon-code">bluefris</span> 
+    <a class="link-to-amazon" href="https://www.amazon.com/gp/product/B011KPUDHS">Blue Color Flashflight LED Flying Disc</a> <span class="coupon-percentage"><br>50%</span> Off Your Purchase,<br> Coupon: <span class="coupon-code">bluefris</span> 
   </div>
   <div class="media-list">
-    <a class="link-to-amazon" href="https://www.amazon.com/gp/product/B010ZHPRWI">Silicone Baking Cups + Cake Decoration Pen</a> <span class="coupon-percentage">50%</span> off coupon <span class="coupon-code">bake4all</span> 
+    <a class="link-to-amazon" href="https://www.amazon.com/gp/product/B010ZHPRWI">Silicone Baking Cups + Cake Decoration Pen</a> <span class="coupon-percentage"><br>50%</span> Off Your Purchase,<br> Coupon: <span class="coupon-code">bake4all</span> 
   </div>
 
 <article class="productslist <% if (pageID == 'home') { %>jumbotron hidden-xs<% } %>">
@@ -16,6 +16,7 @@
     <div class="row">
         <% products.forEach(function(item) { %>
         <div class="<% if (pageID == 'home') { %>col-sm-4 text-center<% } else { %>col-sm-8 <% } %>">
+          <hr>
           <h4 class="productslist-title"><%= item.title %></h4>
           <h5 class="productslist-name"><a href="<%= item.linkToAmazon %>"><%= item.couponDetails %></a></h5>
           <p class="productslist-info">

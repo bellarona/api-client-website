@@ -1,5 +1,34 @@
 {
   "products": [
+      {
+    "title" : "Multi-Color Flashflight LED Flying Disc",
+    "name": "Multi-Color Flashflight LED Flying Disc",
+    "shortname" : "B011KPUDLO-FFD_Feature_00_n",
+    "summary" : "Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play.",
+    "description": "<p>Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play , flying disc for dogs , Includes 2pcsCR2016 batteries (easy to replace)",
+    "artwork": ["20cm-blue.jpg"],
+    "linkToAmazon": "https://www.amazon.com/dp/B011KPUDLO",
+    "couponDetails": "Buy on Amazon"
+  },{
+    "title" : "Blue Color Flashflight LED Flying Disc",
+    "name": "Blue Color Flashflight LED Flying Disc",
+    "shortname" : "B011KPUDHS-20cm-blue",
+    "summary" : "Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play.",
+    "description": "<p>Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play , flying disc for dogs , Includes 2pcsCR2016 batteries (easy to replace)",
+    "artwork": ["20cm-blue.jpg"],
+    "linkToAmazon": "https://www.amazon.com/dp/B011KPUDHS",
+    "couponDetails": "Buy on Amazon"
+  },
+  {   
+ "title" : "Silicone Baking Cups + Decoration Pen",   
+ "name": "Silicone Baking Cups + Decoration Pen",
+ "shortname" : "B010ZHPRWI-pen-cupcakes",
+    "summary" : "Silicone Baking Cups / Mold Cupcake / muffin Set - Premium Quality - Non-Stick - Best 12 Cupcake Liners Includes bonus gift- High Performance Cake Decoration Pen 13cm*3cm",
+    "description": "High Quality Silicone Baking Mold Cupcake/muffin Set with High Performance Decoration Pen<br><br>BEST DEAL YOU CAN FIND!!environmentally friend and cost saving baking cups, No need to buy paper cups ever again.These easy-release, non-stick cupcake cups are reusable.No need to use a muffin pan. Just position the baking cups on a baking heet, and bake. YOU'LL ADORE THE VIBRANT COLORS, KIDS LOVE TOO!The Vivacious Collection includes cheerful colors: pink, orange,red,yellow, green, and blue .There are 12 cups, two in each of the six colors. These cups can be used for more than baking. Use your inspiration and create other tasty little treats like.. Ice cream cupcakes Cheese cakes Gelatin creation Fancy personalized deserts.DIRECTIONS FOR USE:Place cups on baking sheet or in a muffin pan. Fill ¾ of the full cup and bake according to recipe. Allow to cool before removal. You can use cooking spray lightly before filling, if needed.Clean up: place in dishwasher or hand wash to clean. <br> Storage:Stack and store in your kitchen cabinet for easy use.FDA approved and BPA free silicone!Product Description for pen Features:Brand new and high quality cute cake pen decoration. A fun and indispensable tool to customize and embellish your favorite desserts. Perfect for children to use as well. Easy to use and clean.DIRECTIONS FOR USE:Simply fill the pen with chocolate, push the plunger and squeeze to decorate or write on cakes, cupcakes or pastry.Material: Silicone and plastic. Color:random color.Package Included:12 re-usable baking cups 1 x New Silicone Food Writing Pen to be used for cake and pastry decorating.",
+      "linkToAmazon":["https://www.amazon.com/gp/product/B010ZHPRWI"]  ,
+    "artwork": ["Silicone Baking Cups .jpg", "Silicone Baking Cups.jpg", "Silicone Baking Cups.jpg"],
+    "couponDetails": "Buy on Amazon"
+ },
   {
     "title" : "Gray Flameless Electronic Arc Lighter",
     "name": "Gray Flameless Electronic Arc Lighter",
@@ -83,7 +112,7 @@
 {
     "title" : "Red Flameless Electronic Arc Lighter",
     "name": "Red Flameless Electronic Arc Lighter",
-    "shortname" : "B01M9IOS0V-_MG_2504",
+    "shortname" : "B01M9IOS0V-_MG_2504-2",
     "summary" : "BellaRona Lighters USB Rechargeable Windproof Arc Lighter Flameless Electronic Arc Lighter (red)",
     "description": "BEST CHOICE LIGHTER ON AMAZON FASTER - STRONGER –Safer, Innovative Design , works by creating an electric arc with one press of a button. simply charge up via USB and you're ready to go.SAFE & SAVE - USB Rechargeable Windproof, No gas required, no fluid required, energy-saving, and environmentally friendly. a full charge can last up to a week or up to 300 sparks, The lighter also has a massive lid, Keep children safe while lighter charging or not in use - Great alternative to Zippo, Bic, or Clipper brand gas filled lighters ",
     "artwork": [" Lighters USB.jpg", " Lighters USB.jpg", " Lighters USB.jpg"],
@@ -93,7 +122,7 @@
 {
     "title" : "Pink Flameless Electronic Arc Lighter",
     "name": "Pink Flameless Electronic Arc Lighter",
-    "shortname" : "B01M7XB7U2-_MG_2508",
+    "shortname" : "B01M7XB7U2-_MG_2508-2",
     "summary" : "BellaRona Lighters USB Rechargeable Windproof Arc Lighter Flameless Electronic Arc Lighter (pink)",
     "description": "BEST CHOICE LIGHTER ON AMAZON FASTER - STRONGER –Safer, Innovative Design , works by creating an electric arc with one press of a button. simply charge up via USB and you're ready to go.SAFE & SAVE - USB Rechargeable Windproof, No gas required, no fluid required, energy-saving, and environmentally friendly. a full charge can last up to a week or up to 300 sparks, The lighter also has a massive lid, Keep children safe while lighter charging or not in use - Great alternative to Zippo, Bic, or Clipper brand gas filled lighters ",
     "artwork": [" Lighters USB.jpg", " Lighters USB.jpg", " Lighters USB.jpg"],
@@ -109,36 +138,8 @@
     "artwork": [" Lighters USB.jpg", " Lighters USB.jpg", " Lighters USB.jpg"],
     "linkToAmazon":["https://www.amazon.com/gp/product/B01M74HNGB"],
     "couponDetails": "Buy on Amazon"  
-    },
-    {
-    "title" : "Multi-Color Flashflight LED Flying Disc",
-    "name": "Multi-Color Flashflight LED Flying Disc",
-    "shortname" : "B011KPUDLO-FFD_Feature_00_n",
-    "summary" : "Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play.",
-    "description": "<p>Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play , flying disc for dogs , Includes 2pcsCR2016 batteries (easy to replace)",
-    "artwork": ["20cm-blue.jpg"],
-    "linkToAmazon": "https://www.amazon.com/dp/B011KPUDLO",
-    "couponDetails": "Buy on Amazon"
-  },{
-    "title" : "Blue Color Flashflight LED Flying Disc",
-    "name": "Blue Color Flashflight LED Flying Disc",
-    "shortname" : "B011KPUDHS-20cm-blue",
-    "summary" : "Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play.",
-    "description": "<p>Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play , flying disc for dogs , Includes 2pcsCR2016 batteries (easy to replace)",
-    "artwork": ["20cm-blue.jpg"],
-    "linkToAmazon": "https://www.amazon.com/dp/B011KPUDHS",
-    "couponDetails": "Buy on Amazon"
-  },
-  {   
- "title" : "Silicone Baking Cups + Decoration Pen",   
- "name": "Silicone Baking Cups + Decoration Pen",
- "shortname" : "B010ZHPRWI-pen-cupcakes",
-    "summary" : "Silicone Baking Cups / Mold Cupcake / muffin Set - Premium Quality - Non-Stick - Best 12 Cupcake Liners Includes bonus gift- High Performance Cake Decoration Pen 13cm*3cm",
-    "description": "High Quality Silicone Baking Mold Cupcake/muffin Set with High Performance Decoration Pen<br><br>BEST DEAL YOU CAN FIND!!environmentally friend and cost saving baking cups, No need to buy paper cups ever again.These easy-release, non-stick cupcake cups are reusable.No need to use a muffin pan. Just position the baking cups on a baking heet, and bake. YOU'LL ADORE THE VIBRANT COLORS, KIDS LOVE TOO!The Vivacious Collection includes cheerful colors: pink, orange,red,yellow, green, and blue .There are 12 cups, two in each of the six colors. These cups can be used for more than baking. Use your inspiration and create other tasty little treats like.. Ice cream cupcakes Cheese cakes Gelatin creation Fancy personalized deserts.DIRECTIONS FOR USE:Place cups on baking sheet or in a muffin pan. Fill ¾ of the full cup and bake according to recipe. Allow to cool before removal. You can use cooking spray lightly before filling, if needed.Clean up: place in dishwasher or hand wash to clean. <br> Storage:Stack and store in your kitchen cabinet for easy use.FDA approved and BPA free silicone!Product Description for pen Features:Brand new and high quality cute cake pen decoration. A fun and indispensable tool to customize and embellish your favorite desserts. Perfect for children to use as well. Easy to use and clean.DIRECTIONS FOR USE:Simply fill the pen with chocolate, push the plunger and squeeze to decorate or write on cakes, cupcakes or pastry.Material: Silicone and plastic. Color:random color.Package Included:12 re-usable baking cups 1 x New Silicone Food Writing Pen to be used for cake and pastry decorating.",
-      "linkToAmazon":["https://www.amazon.com/gp/product/B010ZHPRWI"]  ,
-    "artwork": ["Silicone Baking Cups .jpg", "Silicone Baking Cups.jpg", "Silicone Baking Cups.jpg"],
-    "couponDetails": "Buy on Amazon"
- }]
+    }
+    ]
  }
  
     
