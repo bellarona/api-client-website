@@ -260,3 +260,7 @@ header .jumbotron {
     border:solid 1px
   }
 }
+
+div.col-sm-8 {
+  margin-bottom: 80px;
+}
