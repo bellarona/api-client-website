@@ -237,8 +237,8 @@ header .navbar-inverse .navbar-nav>li>a {
 }
 
 header .jumbotron {
-  /*height: 40vh;*/
-  height: 80vh;
+  height: 40vh;
+  /*height: 80vh;*/
   margin-bottom: 0;
   background: url(../images/misc/background.jpg) no-repeat 100% 5%;
   -webkit-background-size: cover;
@@ -246,6 +246,7 @@ header .jumbotron {
   -o-background-size: cover;
   background-size: cover;
 }
+
 .coupon-percentage {
   color: green;
 }
@@ -263,4 +264,8 @@ header .jumbotron {
 
 div.col-sm-8 {
   margin-bottom: 80px;
+}
+
+.coupon-details {
+  margin-left: 10px;
 }
